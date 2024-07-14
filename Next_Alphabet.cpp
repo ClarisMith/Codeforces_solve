@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    char ch;
+    cin>>ch;
+    if (ch=='z'){
+        cout<<"a";
+    }
+    else{
+        ch++;
+        cout<<ch;
+    }
+
+
+    return 0;
+    }
